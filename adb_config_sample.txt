@@ -1,0 +1,4 @@
+# This is a sample configuration file for the adb_script.sh script.
+# Replace 'xx:xx:xx:xx:xx:xx' with the MAC address of your device.
+
+MAC_ADDRESS='xx:xx:xx:xx:xx:xx'
